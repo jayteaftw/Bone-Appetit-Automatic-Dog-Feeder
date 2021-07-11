@@ -12,6 +12,12 @@ The app allows the user to wirless communcation and the ability to customize the
 - Changing the clock within the device to allow for full 24 hour automation.
 - Manual Feeding Option.
 
+### Video Links
+- [Proof of Concept:](https://youtu.be/64Arg9GgWlg) Demonstrates the [testing code](https://github.com/jayteaftw/Bone-Appetit-Automatic-Dog-Feeder/blob/main/Mech144_Final_test.ino)
+- [Feeding Number 1:](https://youtu.be/Np4rJpq2TLA) Demonstrates the [final code](https://github.com/jayteaftw/Bone-Appetit-Automatic-Dog-Feeder/blob/main/Mech144_Final_test.ino))
+- [Feeding Number 2:](https://youtu.be/fQM1OlikSxk) Demonstrates the [final code](https://github.com/jayteaftw/Bone-Appetit-Automatic-Dog-Feeder/blob/main/Mech144_Final_test.ino))
+
+
 ### Software
 <img src="https://user-images.githubusercontent.com/20690770/125205611-b52bc780-e248-11eb-9546-c8721c129fe2.png" width = "300">
 
