@@ -12,4 +12,15 @@ The app allows the user to wirless communcation and the ability to customize the
 - Changing the clock within the device to allow for full 24 hour automation.
 - Manual Feeding Option.
 
+### Software
+<img src="https://user-images.githubusercontent.com/20690770/125205611-b52bc780-e248-11eb-9546-c8721c129fe2.png" width = "300">
+
+
+### Circuit
+<img src="https://user-images.githubusercontent.com/20690770/125205816-b5789280-e249-11eb-93ab-f74655630496.png" width = "300">
+
+### Mechanical
+
+<img src="https://user-images.githubusercontent.com/20690770/125205878-08eae080-e24a-11eb-81dc-e2c174988a83.png" width = "300">
+
 
